@@ -1,5 +1,7 @@
 # bioimage1s: A Benchmark Dataset for One-Shot Classification with Biomedical Imaging
 
+## Contents
+
 This dataset contains eight folders of biomedical images, each representing a specific task. Within each folder:
 
 The "testing" folder contains subfolders of testing images, each labeled by different categories.
@@ -8,6 +10,7 @@ The "training" folder holds training images intended for use in conventional dee
 
 The "referencearray" folder provides reference arrays of training images intended for large language/multimodal models. The images here are the same as those in the "training" folder.
 
+## Tasks
 
 The dataset tasks are as follows:
 
