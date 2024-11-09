@@ -1,7 +1,5 @@
 bioimage1s: A Benchmark Dataset for One-Shot Classification with Biomedical Imaging
 
-====
-
 This dataset contains eight folders of biomedical images, each representing a specific task. Within each folder:
 
 The "testing" folder contains subfolders of testing images, each labeled by different categories.
