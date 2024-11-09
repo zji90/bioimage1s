@@ -12,11 +12,18 @@ The "referencearray" folder provides reference arrays of training images intende
 The dataset tasks are as follows:
 
 GBM_histology: Histology images from individuals with or without glioblastoma (GBM).
+
 brain_MRI: MRI images from individuals with or without brain tumors.
+
 cell_states: DAPI-stained images from normal and senescent cells.
+
 cell_types: Microscopy images of two cell lines: BV2 and SHSY5Y.
+
 chest_CT: Chest CT images from individuals with or without lung cancer.
+
 retina_OCT: Retina OCT images from individuals with or without diabetic macular edema (DME).
+
 three_tissues: H&E-stained images of three tissue types: artery, tibial nerve, and adipose.
+
 two_tissues: H&E-stained images of two tissue types: artery and tibial nerve.
 
